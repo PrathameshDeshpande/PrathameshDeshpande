@@ -57,3 +57,27 @@
 | Hindi         | Native or bilingual proficiency                                           |
 | Marathi       | Elementary proficiency                                                    |
 
+
+### WANNA GET IN TOUCH WITH ME
+<p>
+  <br />
+  </p>
+<a href="https://www.linkedin.com/in/prathamesh-deshpande-86716718a/">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/linkedin.svg"/>
+</a>
+<a href="https://www.instagram.com/__prathamesh_deshpande___/">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/instagram.svg"/>
+</a>
+<a href="https://www.facebook.com/prathamesh.deshpande.50/">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/facebook (1).svg"/>
+</a>
+<a href="https://twitter.com/ImPDP25">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/twitter.svg"/>
+</a>
+<a href="https://medium.com/@prathameshdesh25">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/medium.svg"/>
+</a>
+<a href="prtdesh25@gmail.com">
+  <img align="left" alt="SD | Insta" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/281769.svg"/>
+</a>
+
