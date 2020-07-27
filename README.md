@@ -1,8 +1,6 @@
 # <div align="center" >KonniChiwa EveryOne :metal: :wave: :v: </div>
 <p >
-<div align="left" >
- <div align="center" >About ME👋 </div>
-
+<div align="left" > 
 **Currently, in my 2nd Year, I am a Results-Driven Computer Science student from SRMIST,KTR.**
 **I am really passionate about developing fast and efficient Machine Learning models.**
 **I love to learn new things and implement them eventually to develop hands-on skills.**
