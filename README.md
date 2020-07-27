@@ -36,8 +36,11 @@
 * **Java And Python**
 * **Convolution Neural Networks**
 * **Natural Language Processing**
+<p>
+  <br />
+  </p>
 
-## Programming Languages💠
+## Programming Languages💠<p ><img align="right" width="175" height="175" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/java.gif"></p>
 * **Java**
 * **Python**
 * **C**
