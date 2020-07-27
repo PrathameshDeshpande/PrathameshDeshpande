@@ -49,6 +49,9 @@
 <p>
   <br />
   </p>
+  <p>
+  <br />
+  </p>
 
 ### Languages 🌐
 | Language      | Proficiency                                                               |
@@ -57,11 +60,18 @@
 | Hindi         | Native or bilingual proficiency                                           |
 | Marathi       | Elementary proficiency                                                    |
 
+<p>
+  <br />
+  </p>
+  <p>
+  <br />
+  </p>
 
 ### WANNA GET IN TOUCH WITH ME AND COLLAB,LET'S DO IT💬📱
 <p>
   <br />
   </p>
+
 <a href="https://www.linkedin.com/in/prathamesh-deshpande-86716718a/">
   <img align="left" alt="PDP | LINKEDIN" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/linkedin.svg"/>
 </a>
@@ -85,6 +95,9 @@
   <br />
   </p>
   <p>
+  <br />
+  </p>
+   <p>
   <br />
   </p>
 
