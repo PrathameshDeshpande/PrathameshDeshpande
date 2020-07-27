@@ -90,6 +90,6 @@
 
 ### SEE YAAA ,BYEEEEE!!:wave::wave:
 
-<img align="center" width="600" height="500" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/200w (1).webp"></p>
+<img align="center" width="800" height="500" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/200w (1).webp"></p>
 
 ## MEANWHILE PLEASE FEEL FREE TO CHECKOUT MY REPOSITORIES:point_down::point_down::point_down:!!! CHEEERS HAVE A GOOD DAY BYEEEEE!!!!
