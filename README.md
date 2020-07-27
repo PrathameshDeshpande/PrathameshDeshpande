@@ -91,7 +91,7 @@
   <img align="left" alt="PDP | GM" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/281769.svg"/>
 </a>
 <a href="https://www.kaggle.com/prathameshdeshpande">
-  <img align="left" alt="PDP | K" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/kaggle-ar21.svg"/>
+  <img align="left" alt="PDP | K" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/kaggle-icon.svg"/>
 </a>
 <p>
   <br />
