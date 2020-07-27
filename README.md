@@ -23,15 +23,6 @@
 I'm A Sophomore From SRMIST,KTR Studing Computer Sciencce And Engineering. I'm Very Passionate and Motivated towards Learning AI & ML and Implementing Them To Solve Real World Problems.I love the Technical Aspect Of How We Can Use Data and Process It,Manipulate It To Predict Stock Prices,Sentiments,Image Processing,Cyber Security,Medical Applications And Further,The Scopes Are Endless.I Mainly Code In Java And Python And Love Solving Tricky Problems.I love Reading and Learning about New Algorithms and Techniques been Implemented in Machine Leaning.I Am Also An Active Kaggle User Whose Repo You May Fine In Repositories Section So Check That Out Too.
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<p>
-  <br />
-  </p>
-  <p>
-  <br />
-  </p>
-    <p>
-  <br />
-<hr/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshDeshpande&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshDeshpande&show_icons=true&theme=radical)](https://github.com/PrathameshDeshpande/github-readme-stats)
 
