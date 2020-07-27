@@ -30,5 +30,23 @@
 ![Prathamesh Deshpande GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshDeshpande&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshDeshpande&show_icons=true&theme=radical)](https://github.com/PrathameshDeshpande/github-readme-stats)
 
 
+## MY SKILLSET🎯
+* **Machine Learning**
+* **OpenCV**
+* **Java And Python**
+* **Convolution Neural Networks**
+* **Natural Language Processing**
 
+## Programming Languages💠
+* **Java**
+* **Python**
+* **C**
+* **Kotlin**
+
+### Languages 🌐
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | Professional working proficiency                                          |
+| Hindi         | Native or bilingual proficiency                                           |
+| Marathi       | Elementary proficiency                                                    |
 
