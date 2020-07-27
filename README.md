@@ -25,9 +25,6 @@
 <p>
   <br />
   </p>
-  <p>
-  <br />
-  </p>
   
 ## 📈SOME STATS-
 ![Prathamesh Deshpande GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshDeshpande&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshDeshpande&show_icons=true&theme=radical)](https://github.com/PrathameshDeshpande/github-readme-stats)
