@@ -58,7 +58,7 @@
 | Marathi       | Elementary proficiency                                                    |
 
 
-### WANNA GET IN TOUCH WITH ME
+### WANNA GET IN TOUCH WITH ME💬📱
 <p>
   <br />
   </p>
