@@ -30,7 +30,7 @@
 ![Prathamesh Deshpande GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshDeshpande&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshDeshpande&show_icons=true&theme=radical)](https://github.com/PrathameshDeshpande/github-readme-stats)
 
 
-## MY SKILLSET🎯<p ><img align="right" width="175" height="175" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphy (3).gif"></p>
+## MY SKILLSET🎯<p ><img align="right" width="220" height="220" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphy (3).gif"></p>
 * **Machine Learning**
 * **OpenCV**
 * **Java And Python**
