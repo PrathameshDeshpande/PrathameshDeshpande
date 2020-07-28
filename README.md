@@ -1,4 +1,13 @@
-# <div align="center" >KONNICHIWA EVERYONE :metal: :wave: :v: </div>
+# <p><img align="center" width="350" height="50" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphyx.jpg"></p>
+<p>
+  <br />
+  </p>
+  <p>
+  <br />
+  </p>
+  <p>
+  <br />
+  </p>
 <p >
 <img align="left" width="430" height="500" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphy.gif">
 <img align="left" width="350" height="500" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphy (1).gif">
