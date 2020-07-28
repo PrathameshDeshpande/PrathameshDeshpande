@@ -30,7 +30,7 @@
 ![Prathamesh Deshpande GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshDeshpande&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshDeshpande&show_icons=true&theme=radical)](https://github.com/PrathameshDeshpande/github-readme-stats)
 
 
-## MY SKILLSET🎯<p ><img align="right" width="220" height="220" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphy (3).gif"></p>
+## MY SKILLSET🎯<p ><img align="right" width="240" height="220" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphy (3).gif"></p>
 * **Machine Learning**
 * **OpenCV**
 * **Java And Python**
@@ -40,7 +40,7 @@
   <br />
   </p>
 
-## Programming Languages💠<p ><img align="right" width="175" height="175" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/java.gif"></p>
+## Programming Languages💠<p ><img align="right" width="220" height="195" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/java.gif"></p>
 * **Java**
 * **Python**
 * **C**
@@ -67,7 +67,7 @@
   <br />
   </p>
 
-### WANNA GET IN TOUCH WITH ME AND COLLAB,LET'S DO IT💬📱
+### WANNA GET IN TOUCH WITH ME AND COLLAB,LET'S DO IT💬📱<p ><img align="right" width="200" height="175" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/xd.webp"></p>
 <p>
   <br />
   </p>
