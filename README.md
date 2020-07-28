@@ -1,11 +1,5 @@
-# <p><img align="center" width="350" height="50" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphyx.jpg"></p>
+# <p><img align="Center" width="800" height="50" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphyx.jpg"></p>
 <p>
-  <br />
-  </p>
-  <p>
-  <br />
-  </p>
-  <p>
   <br />
   </p>
 <p >
