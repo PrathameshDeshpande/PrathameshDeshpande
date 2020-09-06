@@ -1,8 +1,8 @@
 # <p><img align="Center" width="800" height="200" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/welcome.gif"></p>
-
+<p>
 <img align="left" width="430" height="500" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphy.gif">
 <img align="left" width="350" height="500" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphy (1).gif">
-
+</p>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <p>
