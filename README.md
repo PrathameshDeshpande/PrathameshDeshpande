@@ -1,6 +1,6 @@
 # <p><img align="Center" width="1000" height="200" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/welcome.gif"></p>
 <p>
-<img align="left" width="430" height="500" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/catly.gif">
+<img align="left" width="430" height="500" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/cc.gif">
 <img align="left" width="350" height="500" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/giphy (1).gif">
 </p>
 
