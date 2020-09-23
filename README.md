@@ -94,7 +94,7 @@
   <img align="left" alt="PDP | K" width="40px" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/kaggle-icon.svg"/>
 </a>
 <p>
-<img align="left" width="250" height="50" src="https://komarev.com/ghpvc/?username=PrathameshDeshpande&color=brightgreen&label=Visits"/>
+<img align="left" width="25" height="50" src="https://komarev.com/ghpvc/?username=PrathameshDeshpande&color=brightgreen&label=Visits"/>
 </p>
 <p>
   <br />
