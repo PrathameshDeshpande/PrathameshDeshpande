@@ -20,7 +20,7 @@
 <hr/>
 
 # <div align="center" >:point_down::point_down:GET TO KNOW ME-</div><p ><img align="right" width="220" height="250" src="https://github.com/PrathameshDeshpande/PrathameshDeshpande/blob/master/200w.webp"></p>
-**:star2::star2:I'm a Pre-Final year student at SRMIST,KTR Studying Computer Science And Engineering. I'm very curious about Learning AI & ML and Implementing them To solve seral-world problems. I love the core aspect of how we can use data and manipulate it to do the impossible. I mainly code in C++, Java And Python And love solving tricky problems. I love reading and learning about new advances in the field of Machine Learning.:star2::star2:**
+**:star2::star2:I'm a Pre-Final year student at SRMIST,KTR Studying Computer Science And Engineering. I'm very curious about Learning AI & ML and Implementing them To solve real-world problems. I love the core aspect of how we can use data and manipulate it to do the impossible. I mainly code in C++, Java And Python And love solving tricky problems. I love reading and learning about new advances in the field of Machine Learning.:star2::star2:**
 
 <p>
   <br />
