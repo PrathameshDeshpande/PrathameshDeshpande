@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Prathamesh%20Deshpande&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Cloud%20Wanderer%20%E2%80%A2%20Caffeine-Powered%20Human&descSize=16&descAlignY=60" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Prathamesh%20Deshpande&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Caffeine-Powered%20Human&descSize=16&descAlignY=60" alt="banner" />
 
 <a href="https://github.com/PrathameshDeshpande">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Crafting+scalable+backends+at+3AM.;Java+%2B+Spring+%2B+AWS+%E2%80%94+with+a+side+of+ramen.;%22Wubba+Lubba+Dub+Dub%22+%E2%80%94+yes%2C+I+am+in+great+pain.;Bazinga.+Just+kidding.+I+actually+ship+code." alt="typing" />
