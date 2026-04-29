@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Prathamesh%20Deshpande&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Caffeine-Powered%20Human&descSize=16&descAlignY=60" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Prathamesh%20Deshpande&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20shouldn't%20work%2C%20but%20do.&descSize=16&descAlignY=60" alt="banner" />
 
 <a href="https://github.com/PrathameshDeshpande">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Crafting+scalable+backends+at+3AM.;Java+%2B+Spring+%2B+AWS+%E2%80%94+with+a+side+of+ramen.;%22Wubba+Lubba+Dub+Dub%22+%E2%80%94+yes%2C+I+am+in+great+pain.;Bazinga.+Just+kidding.+I+actually+ship+code." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Crafting+scalable+backends+at+3AM.;Java+%2B+Spring+%2B+AWS+-+with+a+side+of+ramen.;%22Wubba+Lubba+Dub+Dub%22+-+yes%2C+I+am+in+great+pain.;Bazinga.+Just+kidding.+I+actually+ship+code." alt="typing" />
 </a>
 
 <br/>
@@ -36,45 +36,43 @@ const prathamesh = {
   building:    "scalable backends, event-driven systems, and quiet caffeine addictions",
   fuel:        ["☕", "🍜", "Verstappen radio messages"],
   philosophy:  "Code is poetry. The JVM is jazz. Production is a Murakami novel.",
-  randomFact:  "Talks to my cat about distributed systems. She nods. She gets it.",
+  randomFact:  "Talks to my cat about distributed systems. he nods. he gets it.",
 };
 ```
 
-> *"Whatever happens, happens."* — Spike Spiegel, probably while debugging
-
 <br/>
-
 <!-- ============================================================
                        ABOUT ME / VIBE
 ============================================================ -->
 
-<table>
+<div align="center">
+
+<table width="860">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="middle" align="left" style="padding: 20px 24px;">
 
-### A few honest lines
+### When I'm not architecting, I'm:
 
-I write **Java** like Levi cleans — obsessively.
-I deploy on **AWS** with the calm of a man who has no calm.
-I treat every **PR review** like a Baki tournament — show up, get humbled, come back stronger.
-
-When I'm not architecting microservices, I'm:
-- 🍳 cooking like it's a Michelin audition for one
-- 🏎️ yelling *"SIMPLY LOVELY"* at a TV during Lap 14
-- 🐈 losing arguments to my cat
-- 📚 reading philosophy I'll quote out of context
-- 🎌 romanticizing Tokyo at 2 AM on Google Street View
+🍳 &nbsp;cooking like it's a Michelin audition for one
+<br/><br/>
+🏎️ &nbsp;yelling *"SIMPLY LOVELY"* at a TV during Lap 14
+<br/><br/>
+🐈 &nbsp;losing arguments to my cat
+<br/><br/>
+📚 &nbsp;reading philosophy I'll quote out of context
+<br/><br/>
+🎌 &nbsp;romanticizing Japan at 2 AM 
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle" style="padding: 20px;">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="anime coding" />
-<br/>
-<sub><i>me, vs. that one bug in prod</i></sub>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5saXVuNWw5YjVvdmp6cmYwcGhqd3N6Y2h1MHl5MXR2cnNtODJtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zQ5r7FWZ7VPlm/giphy.gif" width="300" alt="anime coding" />
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -86,47 +84,38 @@ When I'm not architecting microservices, I'm:
 
 <div align="center">
 
-**Languages**
-<br/>
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🧠 Languages**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="languages" />
 
-<br/><br/>
+</td>
+<td align="center" width="25%">
 
-**Backend & Frameworks**
-<br/>
+**⚙️ Backend & Frameworks**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,react,redux&theme=dark" alt="frameworks" />
 
-<br/><br/>
+</td>
+<td align="center" width="25%">
 
-**Cloud, Data & Infra**
-<br/>
+**☁️ Cloud, Data & Infra**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,kafka,postgres,redis,dynamodb,grafana,prometheus&theme=dark" alt="cloud" />
 
-<br/><br/>
+</td>
+<td align="center" width="25%">
 
-**Tools of the Trade**
-<br/>
+**🛠️ Tools of the Trade**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,linux,bash,idea,postman&theme=dark" alt="tools" />
 
-</div>
-
-<br/>
-
-<!-- ============================================================
-                       GITHUB STATS
-============================================================ -->
-
-## `> stats --pretty`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrathameshDeshpande&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshDeshpande&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ffffff&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshDeshpande&layout=compact&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top-langs" />
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=PrathameshDeshpande&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="trophies" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -141,25 +130,13 @@ When I'm not architecting microservices, I'm:
 ```json
 {
   "watching":   "Baki  →  AOT rewatch  →  Naruto whenever the Sasuke arc calls",
-  "racing":     "Lap 47 of every Verstappen onboard — 'mate, the car is fine'",
+  "racing":     "Lap 47 of every Verstappen onboard 'mate, the car is fine'",
   "reading":    "Camus, Murakami, and a 12-tab Stack Overflow thread",
   "cooking":    "perfecting tonkotsu broth like it's a system design round",
   "debugging":  "a Tom & Jerry chase between me and a NullPointerException",
   "listening":  "lo-fi + F1 team radio + the gentle hum of an SSH session"
 }
 ```
-
-<br/>
-
-<!-- ============================================================
-                        QUOTE CARD
-============================================================ -->
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-
-</div>
 
 <br/>
 
@@ -194,7 +171,7 @@ When I'm not architecting microservices, I'm:
 
 <div align="center">
 
-> *"I am not in danger, Skyler. I am the danger."* — me, after `git push --force` to a feature branch (only mine, relax)
+> *"I am not in danger, Skyler. I am the danger."*, me, after `git push --force` to a feature branch
 
 <br/>
 
